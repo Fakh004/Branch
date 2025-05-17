@@ -618,6 +618,10 @@ video {
   width: 50px;
 }
 
+.w-\[160px\] {
+  width: 160px;
+}
+
 .max-w-\[1160px\] {
   max-width: 1160px;
 }
@@ -794,6 +798,11 @@ video {
 .bg-\[\#FFDBC3\] {
   --tw-bg-opacity: 1;
   background-color: rgb(255 219 195 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[red\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 0 0 / var(--tw-bg-opacity, 1));
 }
 
 .p-1 {
